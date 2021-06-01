@@ -6,7 +6,7 @@ Soy un ingeniero de software con más de 10 años de experiencia en consultoría
 
 En mi tiempo libre soy desarrollador independiente de apps para sistemas iOS. Empecé en junio de 2020 y tras varios meses aprendiendo y trabajando en mi primera app, lancé Bullets en noviembre.
 
-![https://apps.apple.com/es/app/bullets/id1536420851](https://raw.githubusercontent.com/josavicente/josavicente/master/AppStore.png)
+[![Bullets](https://raw.githubusercontent.com/josavicente/josavicente/master/AppStore.png)](https://apps.apple.com/es/app/bullets/id1536420851)
 
 ## Skills:
 [![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white&labelColor=101010)]()
