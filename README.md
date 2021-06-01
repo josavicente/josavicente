@@ -18,7 +18,7 @@ En mi tiempo libre soy desarrollador independiente de apps para sistemas iOS. Em
 
 ## Estoy en:
 [![Github](https://img.shields.io/badge/github-A259FF?style=for-the-badge&logo=Github&logoColor=white&labelColor=101010)](https://github.com/josavicente)
-[![Twitter](https://img.shields.io/badge/twitter-52A7CC?style=for-the-badge&logo=Twitter&logoColor=white&labelColor=101010)](https://twitter.com/josavicente)[![Instagram](https://img.shields.io/badge/instagram-800733?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/josavicente/)[![Linkedin](https://img.shields.io/badge/Linkedin-800733?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.instagram.com/josavicente/)
+[![Twitter](https://img.shields.io/badge/twitter-52A7CC?style=for-the-badge&logo=Twitter&logoColor=white&labelColor=101010)](https://twitter.com/josavicente)[![Instagram](https://img.shields.io/badge/instagram-800733?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/josavicente/)[![Linkedin](https://img.shields.io/badge/Linkedin-800733?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/jvicenpe/)
 
 
 
