@@ -2,9 +2,15 @@
 
 ![https://github.com/josavicente](https://raw.githubusercontent.com/josavicente/josavicente/master/Banner.png)
 
-Soy un ingeniero de software con más de 10 años de experiencia en consultoría tecnológica. Especializado en el sector hotelero y la integración de terceros. Llevo trabajando con SAP durante 13 años y en 2020, durante la pandemia y el confinamiento decidí empezar a complementar mi carrera con otras skills, empecé aprendiendo python y posteriormente pasé a aprender Swift, como apasionado de Apple era el paso lógico que llevaba años planteandome dar.
+Soy un ingeniero de software con más de 10 años de experiencia en consultoría tecnológica. Especializado en el sector hotelero y la integración de terceros. Llevo trabajando con SAP durante 14 años y en 2020. Durante la pandemia y el confinamiento decidí empezar a complementar mi carrera con otras skills, empecé aprendiendo python y posteriormente pasé a aprender Swift, como apasionado de Apple era el paso lógico que llevaba años planteandome dar.
 
 En mi tiempo libre soy desarrollador independiente de apps para sistemas iOS. Empecé en junio de 2020 y tras varios meses aprendiendo y trabajando en mi primera app, lancé Bullets en noviembre.
+
+--
+
+I am a software engineer with more than 10 years of experience in technology consulting. Specialised in the hospitality sector and third party integration. I have been working with SAP for 14 years and in 2020. During the pandemic and lock-down I decided to start complementing my career with other skills, I started learning python and then I moved on to learn Swift, as an Apple enthusiast it was the logical step I had been planning to take for years.
+
+In my spare time I am a freelance developer of apps for iOS systems. I started in June 2020 and after several months learning and working on my first app, I launched Bullets in November.
 
 [![Bullets](https://raw.githubusercontent.com/josavicente/josavicente/master/AppStore.png)](https://apps.apple.com/es/app/bullets/id1536420851)
 
