@@ -22,6 +22,8 @@ In my spare time I am a freelance developer of apps for iOS systems. I started i
 [![Python](https://img.shields.io/badge/Python-FFD708?style=for-the-badge&logo=Python&logoColor=white&labelColor=101010)]()
 [![Figma](https://img.shields.io/badge/Figma-5FDED7?style=for-the-badge&logo=Figma&logoColor=white&labelColor=101010)]()
 
+[![Josavicente wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=josavicente)]()
+
 ## Estoy en:
 [![Github](https://img.shields.io/badge/github-A259FF?style=for-the-badge&logo=Github&logoColor=white&labelColor=101010)](https://github.com/josavicente)
 [![Twitter](https://img.shields.io/badge/twitter-52A7CC?style=for-the-badge&logo=Twitter&logoColor=white&labelColor=101010)](https://twitter.com/josavicente)
