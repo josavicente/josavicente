@@ -33,7 +33,7 @@ In my spare time I am a freelance developer of apps for iOS systems. I started i
 
 
 ## Puedes escribirme a/ Write me:
-<ottodev.studio@gmail.com>
+<jvicenpe@gmail.com>
 </br>
 
 <!--START_SECTION:waka-->
