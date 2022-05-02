@@ -23,7 +23,7 @@ In my spare time I am a freelance developer of apps for iOS systems. I started i
 [![Figma](https://img.shields.io/badge/Figma-5FDED7?style=for-the-badge&logo=Figma&logoColor=white&labelColor=101010)]()
 
 
-## Estoy en:
+## Estoy en/ Find me:
 [![Github](https://img.shields.io/badge/github-A259FF?style=for-the-badge&logo=Github&logoColor=white&labelColor=101010)](https://github.com/josavicente)
 [![Twitter](https://img.shields.io/badge/twitter-52A7CC?style=for-the-badge&logo=Twitter&logoColor=white&labelColor=101010)](https://twitter.com/josavicente)
 [![Instagram](https://img.shields.io/badge/instagram-800733?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/josavicente/)
@@ -31,7 +31,7 @@ In my spare time I am a freelance developer of apps for iOS systems. I started i
 
 
 
-## Puedes escribirme a:
+## Puedes escribirme a/ Write me:
 <ottodev.studio@gmail.com>
 </br>
 
