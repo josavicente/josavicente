@@ -37,7 +37,8 @@ In my spare time I am a freelance developer of apps for iOS systems. I started i
 </br>
 
 <!--[![Josa's GitHub stats](https://github-readme-stats.vercel.app/api?username=josavicente)](https://github.com/josavicente)-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josavicente&layout=compact)](https://github.com/josavicente)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
