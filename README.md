@@ -19,7 +19,7 @@ In my spare time I am a freelance developer of apps for iOS systems. I started i
 [![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white&labelColor=101010)]()
 [![SAP](https://img.shields.io/badge/SAP-6EB5A5?style=for-the-badge&logo=SAP&logoColor=white&labelColor=101010)]()
 [![Python](https://img.shields.io/badge/Python-FFD708?style=for-the-badge&logo=Python&logoColor=white&labelColor=101010)]()
-[![JavaScript](https://img.shields.io/badge/JAvaScript-#F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white&labelColor=101010)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-#F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white&labelColor=101010)]()
 [![Figma](https://img.shields.io/badge/Figma-5FDED7?style=for-the-badge&logo=Figma&logoColor=white&labelColor=101010)]()
 [![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]()
 [![Github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)]()
