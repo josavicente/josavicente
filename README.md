@@ -29,7 +29,7 @@ In my spare time I am a freelance developer of apps for iOS systems. I started i
 [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()</br>
 
 ## CodeWars
-![Codewars](https://github.r2v.ch/codewars?user=josavicente&stroke=COLOR)
+![Codewars](https://github.r2v.ch/codewars?user=josavicente&name=true&top_languages=true&stroke=%23BB432C)
 
 ## Estoy en/ Find me:
 [![Github](https://img.shields.io/badge/github-A259FF?style=for-the-badge&logo=Github&logoColor=white&labelColor=101010)](https://github.com/josavicente)
