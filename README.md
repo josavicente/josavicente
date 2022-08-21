@@ -44,3 +44,6 @@ In my spare time I am a freelance developer of apps for iOS systems. I started i
 
 [![Josa's GitHub stats](https://github-readme-stats.vercel.app/api?username=josavicente)](https://github.com/josavicente)
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=josavicente&layout=compact"/>
+
+.. image:: https://wakatime.com/share/@josavicente/f2dcf68a-4733-4e45-b74d-c954e1d01379.png
+    :target: https://wakatime.com/
