@@ -27,7 +27,7 @@ In my spare time I am a freelance developer of apps for iOS systems. I started i
 [![NodeJS](https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=101010)]()--->
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
 [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
-[![SASS](https://img.shields.io/badge/SASS-#CC6699?style=for-the-badge&logo=sass&logoColor=white&labelColor=101010)]()
+[![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white&labelColor=101010)]()
 
 ## CodeWars
 ![Codewars](https://github.r2v.ch/codewars?user=josavicente&name=true&top_languages=true&stroke=%23BB432C)
