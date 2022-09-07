@@ -29,9 +29,9 @@ In my spare time I am a freelance developer of apps for iOS systems. I started i
 [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
 [![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white&labelColor=101010)]()
 [![LESS](https://img.shields.io/badge/LESS-1D365D?style=for-the-badge&logo=less&logoColor=white&labelColor=101010)]()
-
+<!---
 ## CodeWars
-![Codewars](https://github.r2v.ch/codewars?user=josavicente&name=true&top_languages=true&stroke=%23BB432C)
+![Codewars](https://github.r2v.ch/codewars?user=josavicente&name=true&top_languages=true&stroke=%23BB432C)--->
 
 ## Estoy en/ Find me:
 [![Github](https://img.shields.io/badge/github-A259FF?style=for-the-badge&logo=Github&logoColor=white&labelColor=101010)](https://github.com/josavicente)
@@ -44,6 +44,6 @@ In my spare time I am a freelance developer of apps for iOS systems. I started i
 ## Puedes escribirme a/ Write me: <jvicenpe@gmail.com>
 </br>
 
-
+<!---
 [![Josa's GitHub stats](https://github-readme-stats.vercel.app/api?username=josavicente)](https://github.com/josavicente)
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=josavicente&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=josavicente&layout=compact"/>--->
