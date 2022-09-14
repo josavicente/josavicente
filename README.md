@@ -44,6 +44,5 @@ In my spare time I am a freelance developer of apps for iOS systems. I started i
 ## Puedes escribirme a/ Write me: <jvicenpe@gmail.com>
 </br>
 
-<!---
 [![Josa's GitHub stats](https://github-readme-stats.vercel.app/api?username=josavicente)](https://github.com/josavicente)
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=josavicente&layout=compact"/>--->
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=josavicente&layout=compact"/>
