@@ -1,6 +1,6 @@
-<!--# ![https://github.com/josavicente](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_emote.png) Hello, my name Josa -->
+Hello, my name Josa -->
 
-![https://github.com/josavicente](https://raw.githubusercontent.com/josavicente/josavicente/master/Banner.png)
+<!---[https://github.com/josavicente](https://raw.githubusercontent.com/josavicente/josavicente/master/Banner.png)
 
 Soy un ingeniero de software con más de 10 años de experiencia en consultoría tecnológica. Especializado en el sector hotelero y la integración de terceros. Llevo trabajando con SAP durante 14 años y en 2020. Durante la pandemia y el confinamiento decidí empezar a complementar mi carrera con otras skills, empecé aprendiendo python y posteriormente pasé a aprender Swift, como apasionado de Apple era el paso lógico que llevaba años planteandome dar.
 
@@ -27,8 +27,6 @@ In my spare time I am a freelance developer of apps for iOS systems. I started i
 [![NodeJS](https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=101010)]()--->
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
 [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
-[![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white&labelColor=101010)]()
-[![WEBPACK](https://img.shields.io/badge/WEBPACK-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white&labelColor=101010)]()
 <!---
 ## CodeWars
 ![Codewars](https://github.r2v.ch/codewars?user=josavicente&name=true&top_languages=true&stroke=%23BB432C)--->
