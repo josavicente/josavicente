@@ -1,6 +1,6 @@
 Hello, my name Josa -->
 
-<!---[https://github.com/josavicente](https://raw.githubusercontent.com/josavicente/josavicente/master/Banner.png)
+<!---[https://github.com/josavicente](https://raw.githubusercontent.com/josavicente/josavicente/master/Banner.png)--->
 
 Soy un ingeniero de software con más de 10 años de experiencia en consultoría tecnológica. Especializado en el sector hotelero y la integración de terceros. Llevo trabajando con SAP durante 14 años y en 2020. Durante la pandemia y el confinamiento decidí empezar a complementar mi carrera con otras skills, empecé aprendiendo python y posteriormente pasé a aprender Swift, como apasionado de Apple era el paso lógico que llevaba años planteandome dar.
 
