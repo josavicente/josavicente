@@ -5,7 +5,7 @@ I am a software engineer with more than 10 years of experience in technology con
 
 * 🌍  I'm based in Barcelona 
 * ✉️  You can contact me at [jvicenpe@gmail.com](mailto:jvicenpe@gmail.com) 
-* 🧠  I'm learning React, Golang, Swift 
+* 🧠  I'm learning React, Vue & Svelte, Go, Ruby Swift 
 * 🤝  I'm open to collaborating on anything where I can learn 
 * ⚡  In my free time I build mechanical keyboards and play video games
 
