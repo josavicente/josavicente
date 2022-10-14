@@ -1,7 +1,11 @@
 Hi 👋 My name is Josa 
 =============================
 
-I am a software engineer with more than 10 years of experience in technology consulting. Specialised in the hospitality sector and third party integration. I have been working with SAP for 14 years and in 2020. During the pandemic and lock-down I decided to start complementing my career with other skills, I started learning python and then I moved on to learn Swift, as an Apple enthusiast it was the logical step I had been planning to take for years. In my spare time I am a freelance developer of apps for iOS systems. I started in June 2020 and after several months learning and working on my first app, I launched Bullets in November.  
+Software engineer for more than 15 years, 14 of which I have worked in consulting with SAP technology. Specialised in the hotel sector and integration with 3rd parties. Although my work has been focused on SAP environments, I have continued training and learning other technologies and methodologies.
+
+The last 6 years I have developed my career as Engieneering Manager/ Team Lead.
+
+After 14 years I decided to change direction and move to a new sector and started working at SEAT:CODE. In a product focused environment I discovered a new passion for testing, agile and lean methodologies and curiosity for a continuous integration environment and extreme programming.
 
 * 🌍  I'm based in Barcelona 
 * ✉️  You can contact me at [jvicenpe@gmail.com](mailto:jvicenpe@gmail.com) 
@@ -39,5 +43,5 @@ I am a software engineer with more than 10 years of experience in technology con
 ## Puedes escribirme a/ Write me: <jvicenpe@gmail.com>
 </br>
 
-[![Josa's GitHub stats](https://github-readme-stats.vercel.app/api?username=josavicente)](https://github.com/josavicente)
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=josavicente&layout=compact"/>
+| <a href="https://github.com/josavicente/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=josavicente&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Josas github stats" /></a> | <a href="https://github.com/josavicente/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josavicente&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
