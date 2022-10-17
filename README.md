@@ -24,9 +24,9 @@ After 14 years I decided to change direction and move to a new sector and starte
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
 [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
 <!---[![NodeJS](https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=101010)]()--->
-## Toosl:
+## Tools:
 [![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white)]()
-[![Figma](https://img.shields.io/badge/Figma-5FDED7?style=for-the-badge&logo=Figma&logoColor=black)]()
+[![Figma](https://img.shields.io/badge/Figma-5FDED7?style=for-the-badge&logo=Figma&logoColor=white)]()
 [![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)]()
 [![Github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)]()
 [![VSCode](https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=vscode&logoColor=white)]()
@@ -47,3 +47,5 @@ After 14 years I decided to change direction and move to a new sector and starte
 
 | <a href="https://github.com/josavicente/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=josavicente&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Josas github stats" /></a> | <a href="https://github.com/josavicente/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josavicente&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
+</br>
+<figure><embed src="https://wakatime.com/share/@josavicente/7aeb3a4c-e315-4fe5-ad34-532b919acae8.svg"></embed></figure>
