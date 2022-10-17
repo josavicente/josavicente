@@ -15,20 +15,21 @@ After 14 years I decided to change direction and move to a new sector and starte
 
 [![Bullets](https://raw.githubusercontent.com/josavicente/josavicente/master/AppStore.png)](https://apps.apple.com/es/app/bullets/id1536420851)
 
-## Skills:
+## Languages & frameworks:
 [![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)]()
-[![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white)]()
 [![SAP](https://img.shields.io/badge/SAP-6EB5A5?style=for-the-badge&logo=SAP&logoColor=white)]()
-[![Figma](https://img.shields.io/badge/Figma-5FDED7?style=for-the-badge&logo=Figma&logoColor=white)]()
-[![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)]()
-[![Github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)]()
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)]()
 [![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white)]()
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white)]()
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
 [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
 <!---[![NodeJS](https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=101010)]()--->
-
+## Toosl:
+[![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white)]()
+[![Figma](https://img.shields.io/badge/Figma-5FDED7?style=for-the-badge&logo=Figma&logoColor=white)]()
+[![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)]()
+[![Github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)]()
+[![VSCode](https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=vscode&logoColor=white)]()
 <!---
 ## CodeWars
 ![Codewars](https://github.r2v.ch/codewars?user=josavicente&name=true&top_languages=true&stroke=%23BB432C)--->
