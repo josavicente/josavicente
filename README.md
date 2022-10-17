@@ -32,6 +32,10 @@ After 14 years I decided to change direction and move to a new sector and starte
 [![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)]()
 [![Github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)]()
 [![VSCode](https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=vscode&logoColor=white)]()
+[![VSCode](https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)]()
+[![VSCode](https://img.shields.io/badge/vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)]()
+[![VSCode](https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=jest&logoColor=white)]()
+[![VSCode](https://img.shields.io/badge/webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white)]()
 <!---
 ## CodeWars
 ![Codewars](https://github.r2v.ch/codewars?user=josavicente&name=true&top_languages=true&stroke=%23BB432C)--->
