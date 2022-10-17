@@ -19,7 +19,7 @@ After 14 years I decided to change direction and move to a new sector and starte
 [![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)]()
 [![SAP](https://img.shields.io/badge/SAP-6EB5A5?style=for-the-badge&logo=SAP&logoColor=white)]()
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)]()
-[![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white)]()
+[![Javascript](https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=Javascript&logoColor=white)]()
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white)]()
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
 [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
