@@ -13,7 +13,6 @@ After 14 years I decided to change direction and move to a new sector and starte
 * 🤝  I'm open to collaborating on anything where I can learn 
 * ⚡  In my free time I build mechanical keyboards and play video games
 
-=============================
 
 ## My apps:
 [![Bullets](https://raw.githubusercontent.com/josavicente/josavicente/master/AppStore.png)](https://apps.apple.com/es/app/bullets/id1536420851)
