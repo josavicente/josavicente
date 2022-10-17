@@ -26,7 +26,7 @@ After 14 years I decided to change direction and move to a new sector and starte
 <!---[![NodeJS](https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=101010)]()--->
 ## Tools:
 [![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white)]()
-[![Figma](https://img.shields.io/badge/Figma-5FDED7?style=for-the-badge&logo=Figma&logoColor=white)]()
+[![Figma](https://img.shields.io/badge/Figma-5FDED7?style=for-the-badge&logo=Figma&logoColor=black)]()
 [![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)]()
 [![Github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)]()
 [![VSCode](https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=vscode&logoColor=white)]()
