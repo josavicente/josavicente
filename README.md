@@ -1,4 +1,4 @@
-Hi 👋 My name is Josa 
+Hi! 👋 My name is Josa 
 =============================
 
 Software engineer for more than 15 years, 14 of which I have worked in consulting with SAP technology. Specialised in the hotel sector and integration with 3rd parties. Although my work has been focused on SAP environments, I have continued training and learning other technologies and methodologies.
@@ -12,6 +12,8 @@ After 14 years I decided to change direction and move to a new sector and starte
 * 🧠  I'm interested on learning React, Next.js, Vue & Svelte, Node.js, Go, Rust and Swift 
 * 🤝  I'm open to collaborating on anything where I can learn 
 * ⚡  In my free time I build mechanical keyboards and play video games
+
+=============================
 
 ## My apps:
 [![Bullets](https://raw.githubusercontent.com/josavicente/josavicente/master/AppStore.png)](https://apps.apple.com/es/app/bullets/id1536420851)
@@ -47,4 +49,3 @@ After 14 years I decided to change direction and move to a new sector and starte
 | <a href="https://github.com/josavicente/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=josavicente&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Josas github stats" /></a> | <a href="https://github.com/josavicente/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josavicente&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 </br>
-<figure><embed src="https://wakatime.com/share/@josavicente/7aeb3a4c-e315-4fe5-ad34-532b919acae8.svg"></embed></figure>
