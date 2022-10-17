@@ -16,7 +16,7 @@ After 14 years I decided to change direction and move to a new sector and starte
 [![Bullets](https://raw.githubusercontent.com/josavicente/josavicente/master/AppStore.png)](https://apps.apple.com/es/app/bullets/id1536420851)
 
 ## Languages & frameworks:
-[![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&?logoWidth=400?logo=swift&logoColor=white)]()
+[![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge?logo=swift&logoWidth=100&logoColor=white)]()
 [![SAP](https://img.shields.io/badge/SAP-6EB5A5?style=for-the-badge&logo=SAP&logoColor=white)]()
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)]()
 [![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white)]()
