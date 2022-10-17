@@ -34,7 +34,7 @@ After 14 years I decided to change direction and move to a new sector and starte
 ![Codewars](https://github.r2v.ch/codewars?user=josavicente&name=true&top_languages=true&stroke=%23BB432C)--->
 
 ## Estoy en/ Find me:
-[![Github](https://img.shields.io/badge/github-A259FF?style=for-the-badge&logo=Github&logoColor=white&labelColor=101010)](https://github.com/josavicente)
+[![Github](https://img.shields.io/badge/github-A259FF?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/josavicente)
 [![Twitter](https://img.shields.io/badge/twitter-52A7CC?style=for-the-badge&logo=Twitter&logoColor=white&labelColor=101010)](https://twitter.com/josavicente)
 [![Instagram](https://img.shields.io/badge/instagram-800733?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/josavicente/)
 [![Linkedin](https://img.shields.io/badge/Linkedin-800733?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/jvicenpe/)
