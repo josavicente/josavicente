@@ -1,7 +1,7 @@
 Hi! 👋 My name is Josa 
 =============================
 
-Software engineer for more than 15 years, 14 of which I have worked in consulting with SAP technology. Specialised in the hotel sector and integration with 3rd parties. Although my work has been focused on SAP environments, I have continued training and learning other technologies and methodologies.
+I'm a Software engineer for more than 15 years, 14 of which I have worked in consulting with SAP technology. Specialised in the hotel sector and integration with 3rd parties. Although my work has been focused on SAP environments, I have continued training and learning other technologies and methodologies.
 
 The last 6 years I have developed my career as Engieneering Manager/ Team Lead.
 
