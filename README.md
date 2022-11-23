@@ -9,9 +9,9 @@ After 14 years I decided to change direction and move to a new sector and starte
 
 * 🌍  I'm based in Barcelona 
 * ✉️  You can contact me at [jvicenpe@gmail.com](mailto:jvicenpe@gmail.com) 
-* 🧠  I'm interested on learning React, Next.js, Vue & Svelte, Node.js, Go, Rust and Swift 
+* 🧠  I'm interested on React, Next.js, Vue & Svelte, Node.js, Kotlin, Rust and Swift 
 * 🤝  I'm open to collaborating on anything where I can learn 
-* ⚡  In my free time I build mechanical keyboards and play video games
+* ⚡  In my free time I'm a fahter and I build mechanical keyboards and play video games
 
 
 ## My apps:
