@@ -49,8 +49,8 @@ After 14 years I decided to change direction and move to a new sector and starte
 ## Find me:
 [![Github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/josavicente)
 [![Twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/josavicentedev)
-<!---[![Instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/josavicente/)--->
 [![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jvicenpe/)
+<!---[![Instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/josavicente/)--->
 
 
 </br>
