@@ -21,10 +21,14 @@ After 14 years I decided to change direction and move to a new sector and starte
 [![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)]()
 [![SAP](https://img.shields.io/badge/SAP-6EB5A5?style=for-the-badge&logo=SAP&logoColor=white)]()
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)]()
+[![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=css3&logoColor=white)]()
+[![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=css3&logoColor=white)]()
+[![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=css3&logoColor=white)]()
 [![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=black)]()
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black)]()
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
 [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
+
 <!---[![NodeJS](https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=101010)]()--->
 ## Tools:
 [![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white)]()
