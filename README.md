@@ -36,7 +36,7 @@ After 14 years I decided to change direction and move to a new sector and starte
 [![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)]()
 [![Github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)]()
 [![VSCode](https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=vscode&logoColor=white)]()
-[![IntellijIDEA](https://img.shields.io/badge/intellijidea-1575F9?style=for-the-badge&logo=intellijidea&logoColor=white)]()
+[![IntellijIDEA](https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=white)]()
 [![Vite](https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)]()
 [![Vitest](https://img.shields.io/badge/vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)]()
 [![Jest](https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=jest&logoColor=white)]()
