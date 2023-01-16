@@ -8,10 +8,11 @@ The last 6 years I have developed my career as Engieneering Manager/ Team Lead.
 After 14 years I decided to change direction and move to a new sector and started working at SEAT:CODE. In a product focused environment I discovered a new passion for testing, agile and lean methodologies and curiosity for a continuous integration environment and extreme programming.
 
 * 🌍  I'm based in Barcelona 
+* 🧒  I'm a fahter of two
 * ✉️  You can contact me at [jvicenpe@gmail.com](mailto:jvicenpe@gmail.com) 
 * 🧠  I'm interested on React, Next.js, Vue & Svelte, Node.js, Kotlin, Rust and Swift 
 * 🤝  I'm open to collaborating on anything where I can learn 
-* ⚡  In my free time I'm a fahter and I build mechanical keyboards and play video games
+* ⚡   In my free time I build mechanical keyboards and play video games
 
 
 ## My apps:
