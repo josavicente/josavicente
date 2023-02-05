@@ -1,11 +1,11 @@
 Hi! 👋 My name is Josa 
 =============================
 
-I'm a Software engineer for more than 15 years, 14 of which I have worked in consulting with SAP technology. Specialised in the hotel sector and integration with 3rd parties. Although my work has been focused on SAP environments, I have continued training and learning other technologies and methodologies.
+I'm a Software engineer since 2007, first 14 years I have worked in consulting with SAP technology. Specialised in the hotel sector and integration with 3rd parties. Although my work has been focused on SAP environments, I have continued training and learning other technologies and methodologies.
 
-The last 6 years I have developed my career as Engieneering Manager.
+Since 2017 I have developed my career as Engieneering Manager.
 
-After 14 years I decided to change direction and move to a new sector and started working at SEAT:CODE. In a product focused environment I discovered a new passion for testing, agile and lean methodologies and curiosity for a continuous integration environment and extreme programming.
+On 2021 I decided to change direction and move to a new sector and started working at SEAT:CODE. In a product focused environment I discovered a new passion for testing, agile and lean methodologies and curiosity for a continuous integration environment and extreme programming.
 
 * 🌍  I'm based in Barcelona 
 * 🧒  I'm a father of two
