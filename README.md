@@ -5,7 +5,7 @@ I'm a Software engineer since 2007, first 14 years I have worked in consulting w
 
 Since 2017 I have developed my career as Engieneering Manager.
 
-On 2021 I decided to change direction and move to a new sector and started working at SEAT:CODE. In a product focused environment I discovered a new passion for testing, agile and lean methodologies and curiosity for a continuous integration environment and extreme programming.
+On 2021, I decided to change direction and move to a new sector and started working at SEAT:CODE. In a product focused environment I discovered a new passion for testing, agile and lean methodologies and curiosity for a continuous integration environment and extreme programming.
 
 * 🌍  I'm based in Barcelona 
 * 🧒  I'm a father of two
