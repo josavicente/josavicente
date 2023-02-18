@@ -10,7 +10,7 @@ On 2021, I decided to change direction and move to a new sector and started work
 * 🌍  I'm based in Barcelona 
 * 🧒  I'm a father of two
 * ✉️  You can contact me at [jvicenpe@gmail.com](mailto:jvicenpe@gmail.com) 
-* 🧠  I'm interested on React, Next.js, Vue & Svelte, Node.js, Kotlin, Rust and Swift 
+* 🧠  I'm interested on learning React, Next.js, Kotlin, Rust and improve Swift 
 * 🤝  I'm open to collaborating on anything where I can learn 
 * ⚡   In my free time I build mechanical keyboards and play video games
 
