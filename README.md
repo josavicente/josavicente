@@ -40,7 +40,7 @@ On 2021, I decided to change direction and move to a new sector and started work
 [![Jest](https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=jest&logoColor=white)]()
 
 ## Currently Learning:
-[![Elixir](https://img.shields.io/badge/Elixir-000000?style=for-the-badge&logo=elixir&logoColor=white)]()
+[![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)]()
 [![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)]()
 [![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)]()
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black)]()
