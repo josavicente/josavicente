@@ -1,11 +1,17 @@
 Hi! 👋 My name is Josa 
 =============================
 
-I'm a Software engineer since 2007, first 14 years I have worked in consulting with SAP technology. Specialised in the hotel sector and integration with 3rd parties. Although my work has been focused on SAP environments, I have continued training and learning other technologies and methodologies.
+I'm a Software Engineer with almos 20 years of experience (since 2004). For the last 8 years, I have assumed the role of Engineering Manager, building high performance teams. The success of any product or project depends on the team. A committed and motivated team, supported by a strong multi-cultural, diverse, safe and inclusive culture with shared values makes the difference in delivering value.
 
-Since 2017 I have developed my career as Engieneering Manager.
+As a leader, I prioritise the personal and professional development of each team member, encouraging continuous training, constructive feedback, coaching and best practices, also without forget the value delivery. I have a leadership approach based on Management 3.0 and Radical Candor, focused on collaboration, transparency and trust.
 
-On 2021, I decided to change direction and move to a new sector and started working at SEAT:CODE. In a product focused environment I discovered a new passion for testing, agile and lean methodologies and curiosity for a continuous integration environment and extreme programming.
+I encourage the autonomy of the development team, allowing them to make decisions and take responsibility for their work, which promotes creativity, commitment and effectiveness in delivering value.
+
+My focus is on improving the efficiency of the team and enabling best practices, those that support the team, its development and enable it to deliver maximum value. My focus is always on achieving product goals and exceeding user expectations.
+
+Outside of work, I'm an indie iOS app developer, exploring my interests in UI/UX and graphic design. I experiment with technologies such as Javascript, React, Kotlin, Python and Rust. 
+
+I'm also a father of a boy almost 5 and a girl almost 3. I love spending time with them and my wife. As well as travelling, movies, reading and assembling mechanical keyboards.
 
 * 🌍  I'm based in Barcelona 
 * 🧒  I'm a father of two
