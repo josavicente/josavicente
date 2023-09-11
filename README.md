@@ -59,8 +59,10 @@ On 2021, I decided to change direction and move to a new sector and started work
 
 </br>
 
-| <a href="https://github.com/josavicente/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=josavicente&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Josas github stats" /></a> | <a href="https://github.com/josavicente/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josavicente&layout=compact&theme=buefy&hide_border=true" /></a> |
+<!---| <a href="https://github.com/josavicente/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=josavicente&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Josas github stats" /></a>--->
+| <a href="https://github.com/josavicente/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josavicente&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 </br>
-
+<!---
 <a href="https://www.buymeacoffee.com/josavicente" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+--->
