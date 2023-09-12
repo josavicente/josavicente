@@ -65,7 +65,7 @@ I'm also a father of a boy almost 5 and a girl almost 3. I love spending time wi
 
 </br>
 
-<!---| <a href="https://github.com/josavicente/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=josavicente&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Josas github stats" /></a>--->
+<!---| <a href="https://github.com/josavicente/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=josavicente&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Josas github stats" /></a>
 | <a href="https://github.com/josavicente/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josavicente&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 </br>
