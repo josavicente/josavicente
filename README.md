@@ -16,7 +16,7 @@ I'm also a father of a boy almost 5 and a girl almost 3. I love spending time wi
 * 🌍  I'm based in Barcelona 
 * 🧒  I'm a father of two
 * ✉️  You can contact me at [jvicenpe@gmail.com](mailto:jvicenpe@gmail.com) 
-* 🧠  I'm interested on improving Swift and learning React, Kotlin, Rust.
+* 🧠  I'm interested on improving Swift and learning React, Kotlin, Java.
 * 🤝  I'm open to collaborating on anything where I can learn 
 * ⚡   In my free time I build mechanical keyboards and play video games
 
