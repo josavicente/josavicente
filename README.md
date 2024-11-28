@@ -11,7 +11,7 @@ My focus is on improving the efficiency of the team and enabling best practices,
 
 Outside of work, I'm an indie iOS app developer, exploring my interests in UI/UX and graphic design. I experiment with technologies such as Javascript, React, Kotlin, Python and Rust. 
 
-I'm also a father of a boy almost 5 and a girl almost 3. I love spending time with them and my wife. As well as travelling, movies, reading and assembling mechanical keyboards.
+I'm also a father of a boy almost 7 and a girl almost 4. I love spending time with them and my wife. As well as travelling, movies, reading and assembling mechanical keyboards.
 
 * 🌍  I'm based in Barcelona 
 * 🧒  I'm a father of two
@@ -23,6 +23,8 @@ I'm also a father of a boy almost 5 and a girl almost 3. I love spending time wi
 
 ## My apps:
 [![Bullets](https://raw.githubusercontent.com/josavicente/josavicente/master/AppStore.png)](https://apps.apple.com/es/app/bullets/id1536420851)
+[![Figure Paint Collector](https://raw.githubusercontent.com/josavicente/josavicente/master/AppStore.png)](https://apps.apple.com/gt/app/figure-paint-collector/id6737073017)
+
 
 ## Languages & frameworks:
 [![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)]()
